@@ -1,4 +1,4 @@
-# AmenityReservationSystem
+# Amenity Reservation System
 
 This app was created with Bootify.io - more documentation [can be found here](https://bootify.io/docs/). Feel free to contact us for further questions.
 
